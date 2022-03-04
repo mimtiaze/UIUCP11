@@ -14,7 +14,6 @@ bool isPalindrome(string str){
 int main(){
 
     freopen("in.txt", "r", stdin);
-    freopen("out.txt", "w", stdout);
 
     int t;
     cin >> t;
